@@ -7,8 +7,18 @@ Papers, reproducible artifacts, and experiment references.
    [[paper]](https://arxiv.org/abs/2510.18318)  
    *Keywords:* GeoAI, Foundation Models, Cross-Modal Reasoning, Earth Observation, Spatial Intelligence
 
+2. **[2025 arXiv] LSDTs: LLM-Augmented Semantic Digital Twins for Adaptive Knowledge-Intensive Infrastructure Planning**  
+   [[paper]](https://arxiv.org/abs/2508.06799)  
+   *Keywords:* Semantic Digital Twins, Large Language Models, Knowledge Extraction, Infrastructure Planning, Regulation-Aware Optimization
+
+## Spatial Reasoning, Geolocalization & Map-Based Agents
+
+1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
+   [[paper]](https://arxiv.org/abs/2601.05432)  
+   *Keywords:* Geolocalization, Map-Augmented Agents, Vision-Language Models, Reinforcement Learning, Spatial Reasoning
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
-1. **[Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
+1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
    [[paper]](https://hazards.colorado.edu/weather-ready-research/do-virtual-reality-hazard-simulations-increase-peoples-willingness-to-contribute-to-hazard-mitigation)  
    *Keywords:* Virtual Reality, Hazard Communication, Risk Perception, Mitigation, Human-Subject Experiment
