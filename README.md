@@ -11,6 +11,11 @@ Papers, reproducible artifacts, and experiment references.
    [[paper]](https://arxiv.org/abs/2508.06799)  
    *Keywords:* Semantic Digital Twins, Large Language Models, Knowledge Extraction, Infrastructure Planning, Regulation-Aware Optimization
 
+## Spatial Reasoning, Geolocalization & Map-Based Agents
+
+1. **[2026 arXiv] Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization**  
+   [[paper]](https://arxiv.org/abs/2601.05432)  
+   *Keywords:* Geolocalization, Map-Augmented Agents, Vision-Language Models, Reinforcement Learning, Spatial Reasoning
 
 ## Hazard Communication, Decision-Making & Human Experiments
 
