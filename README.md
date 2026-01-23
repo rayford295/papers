@@ -32,8 +32,16 @@ Papers, reproducible artifacts, and experiment references.
    [[paper]](https://hazards.colorado.edu/weather-ready-research/do-virtual-reality-hazard-simulations-increase-peoples-willingness-to-contribute-to-hazard-mitigation)  
    *Keywords:* Virtual Reality, Hazard Communication, Risk Perception, Mitigation, Human-Subject Experiment
 
-## Multimodal Disaster Damage Assessment Datasets
+## Multimodal Disaster Damage Assessment
 
 1. **[2025 arXiv] BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response**  
    [[paper]](https://arxiv.org/abs/2501.06019)  
    *Keywords:* Multimodal Disaster Dataset, Building Damage Assessment, Optical and SAR Imagery, All-Weather Disaster Response, Earth Observation
+
+2. **[2025 Computers, Environment and Urban Systems] Hyperlocal Disaster Damage Assessment Using Bi-Temporal Street-View Imagery and Pre-Trained Vision Models**  
+   [[paper]](https://doi.org/10.1016/j.compenvurbsys.2025.102335)  
+   *Keywords:* Bi-temporal Street-View Imagery, Disaster Damage Assessment, Pre-trained Vision Models, Hyperlocal Analysis, Urban Resilience
+
+3. **[2025 ICA Abstracts] Perceiving Multidimensional Disaster Damages from Street-View Images Using Visual-Language Models**  
+   [[paper]](https://doi.org/10.5194/ica-abs-10-310-2025)  
+   *Keywords:* Visual-Language Models, Disaster Perception, Street-View Imagery, Multimodal AI, Resilience
