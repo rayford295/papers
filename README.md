@@ -18,6 +18,10 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2508.06799)  
    *Keywords:* Semantic Digital Twins, Large Language Models, Knowledge Extraction, Infrastructure Planning, Regulation-Aware Optimization
 
+3. **[2025 arXiv] BuildingWorld: A Structured 3D Building Dataset for Urban Foundation Models**  
+   [[paper]](https://arxiv.org/abs/2511.06337)  
+   *Keywords:* 3D Urban Modeling, Structured Building Dataset, Urban Foundation Models, LiDAR Point Clouds, Building Reconstruction, Urban AI
+
 ## GIScience, Autonomous GIS & Intelligent Geosystems
 
 1. **[2025 Annals of GIS] GIScience in the Era of Artificial Intelligence: A Research Agenda Towards Autonomous GIS**  
