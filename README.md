@@ -48,6 +48,13 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2512.08016)  
    *Keywords:* Cartographic Reasoning, Spatial Reasoning, Vision–Language Models, Map Understanding, Multi-Step Reasoning, GIS
 
+5. **[2025 ICCV] Where am I? Cross-View Geo-localization with Natural Language Descriptions**  
+   Junyan Ye, Honglin Lin, Leyan Ou, Dairong Chen, Zihao Wang, Qi Zhu, Conghui He, Weijia Li  
+   [[paper]](https://openaccess.thecvf.com/content/ICCV2025/html/Ye_Where_am_I_Cross-View_Geo-localization_with_Natural_Language_Descriptions_ICCV_2025_paper.html)  
+   *Keywords:* Cross-View Geo-localization, Natural Language Descriptions, Vision–Language Models, Text-Guided Retrieval, Street-to-Satellite Matching
+
+
+
 ## Hazard Communication, Decision-Making & Human Experiments
 
 1. **[2025 Weather Ready Research] Do Virtual Reality Hazard Simulations Increase People’s Willingness to Contribute to Hazard Mitigation? Results From an Experiment**  
