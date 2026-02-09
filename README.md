@@ -95,3 +95,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://arxiv.org/abs/2505.21089)  
    *Keywords:* Vision–Language Models, Remote Sensing, Multimodal Disaster Dataset, Damage Assessment, Disaster Response, Cross-Sensor Generalization
 
+5. **[2025 Nature] Built environment disparities are amplified during extreme weather recovery**<br>
+   [[paper]](https://www.nature.com/articles/s41586-025-09804-3)  
+   *Keywords:* Extreme Weather Recovery, Built Environment Disparities, Street View Imagery, Multimodal Machine Learning, Urban Resilience
+
+7. **[2026 ISPRS P&RS] Multimodal remote sensing change detection: An image matching perspective**<br>
+   [[paper]](https://doi.org/10.1016/j.isprsjprs.2026.02.004)  
+   *Keywords:* Multimodal Change Detection, Image Matching, Remote Sensing, Unsupervised Learning, Disaster Response
+
