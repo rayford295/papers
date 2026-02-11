@@ -33,6 +33,11 @@ Papers, reproducible artifacts, and references to experiments.
    [[paper]](https://www.tandfonline.com/doi/full/10.1080/19475683.2025.2552161)  
    *Keywords:* Autonomous GIS, GIScience, Large Language Models, Agentic AI, Intelligent Geosystems, Spatial Analysis
 
+2. **[2026 Big Earth Data] GeoJSON agents: a multi-agent LLM architecture for geospatial analysis—function calling vs. code generation**  
+   Qianglian Luo, Qingming Lin, Liuchang Xu, Sensen Wu, Ruichen Mao, Chao Wang, *et al.*  
+   [[paper]](https://www.tandfonline.com/doi/full/10.1080/20964471.2026.2615511)  
+   *Keywords:* Multi-Agent LLM, GeoJSON, Function Calling, Code Generation, Geospatial Analysis, Autonomous GIS, Tool-Augmented LLMs
+
 ## Cross-View Image Synthesis & World-Ground Alignment
 
 1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
