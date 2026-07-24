@@ -5,6 +5,10 @@ Papers, reproducible artifacts, and references to experiments.
 
 下面的 20 篇构成两条各十篇的必读路径，服务于 **Geo-grounded 3D Vision-Language Reasoning under Incomplete and Changing Observations**。这不是按引用量或单一榜单给出的排名，而是一组按研究功能组织的核心文献：第一组建立视觉与语言基础模型的共同语言；第二组依次覆盖跨视角几何、三维表征、动态更新、语言锚定、语义地图与地理定位。它们共同指向一个可被 CV 社区直接识别的问题：如何从不完整、变化且跨视角的观测中，构建可查询、可推理和可行动的地理配准空间表征？
 
+### Purpose
+
+本清单的目的不是从 GeoAI 转向脱离地理与公共问题的通用 CV，而是把灾害场景作为检验空间智能可靠性的严苛真实世界试验场。阅读、复现和组合这些工作，应服务于一篇博士阶段代表作：以跨地面、无人机和卫星观测为输入，建立能持续更新、可用语言查询、能明确证据与不确定性，并能提出下一步观测或行动建议的地理配准三维空间表征。
+
 ### Ten AI/CV Foundations
 
 1. **[1998 Proceedings of the IEEE] Gradient-Based Learning Applied to Document Recognition**  
