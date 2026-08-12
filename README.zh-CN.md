@@ -405,3 +405,8 @@
    Kooshan Amini, Yuhao Liu, Jamie Ellen Padgett, Guha Balakrishnan, Ashok Veeraraghavan  
    [[论文]](https://arxiv.org/abs/2504.12542)  
    *关键词：* Post-Hurricane Debris Segmentation, Foundational Vision Models, Fine-Tuning, CLIPSeg, Aerial Imagery, Open-Source Disaster Dataset, Rapid Post-Disaster Assessment
+
+14. **[2024 International Journal of Disaster Risk Reduction] A post-hurricane building debris estimation workflow enabled by uncertainty-aware AI and crowdsourcing**  
+   Chih-Shen Cheng, Amir Behzadan, Arash Noshadravan  
+   [[论文]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
+   *关键词：* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
