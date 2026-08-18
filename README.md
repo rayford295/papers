@@ -410,3 +410,9 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    Chih-Shen Cheng, Amir Behzadan, Arash Noshadravan  
    [[paper]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
    *Keywords:* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
+
+## Paper Feeds & Reading Sources
+
+1. **CCTest AI Articles (Chinese)** — A high-volume Chinese-language blog with 550+ paper-reading digests across AI topics: new model releases, multimodal learning, AI agents, inference and deployment, interpretability, and memory systems. Useful as a daily feed for spotting new papers worth a deeper read.  
+   [[site]](https://cctest.ai/zh/articles)  
+   *Keywords:* Paper Digest, AI Research Feed, Model Releases, AI Agents, Multimodal Learning, Interpretability

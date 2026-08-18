@@ -410,3 +410,9 @@
    Chih-Shen Cheng, Amir Behzadan, Arash Noshadravan  
    [[论文]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
    *关键词：* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
+
+## 论文资讯与阅读来源
+
+1. **CCTest AI 文章栏目（中文）** — 高产量的中文 AI 论文解读博客，收录 550+ 篇文章，覆盖新模型发布、多模态学习、AI 智能体、推理与部署、可解释性、记忆系统等主题。适合作为每日浏览的论文资讯源，从中发现值得精读的新论文。  
+   [[网站]](https://cctest.ai/zh/articles)  
+   *关键词：* Paper Digest, AI Research Feed, Model Releases, AI Agents, Multimodal Learning, Interpretability
