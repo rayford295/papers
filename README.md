@@ -236,6 +236,16 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://doi.org/10.1080/19475683.2025.2487979)<br>
    *Keywords:* Geoinformation, Spatial Cognition, Abstraction Level, Spatial Scale, Functional Magnetic Resonance Imaging, Cartographic Design
 
+9. **[2026 arXiv] DisasterLex: An Expert Concept-to-Schema Knowledge Graph for Geospatial Reasoning in Disaster Analytics**<br>
+   Yiming Xiao, Ankit Basu, Kai Yin, Sahil Vartak, Christian Swords, Ali Mostafavi<br>
+   [[paper]](https://arxiv.org/abs/2605.30538) [[code]](https://github.com/YimingXiao98/DisasterLex)<br>
+   *Keywords:* Expert Knowledge Graph, Concept-to-Schema Grounding, Text-to-SQL, Causal Reasoning, Domain Routing, Geospatial Databases, Disaster Analytics
+
+10. **[2026 arXiv] DisasterBench: Benchmarking LLM Planning under Typed Tool Interface Constraints**<br>
+    Zhitong Chen, Kai Yin, Weifeng Zhang, Zhiyuan Wang, Xiangjue Dong, Chengkai Liu, Zhewei Liu, Yiming Xiao, Ali Mostafavi, James Caverlee<br>
+    [[paper]](https://arxiv.org/abs/2605.27957) [[code]](https://github.com/TamuChen18/DisasterBench_Open)<br>
+    *Keywords:* Agent Benchmark, Tool-Use Planning, Typed Tool Interfaces, Parameter Binding, First-Point-of-Failure, Multi-Tool Orchestration, Disaster Response
+
 ## Cross-View Image Synthesis & World-Ground Alignment
 
 1. **[2024 arXiv] Leveraging BEV Paradigm for Ground-to-Aerial Image Synthesis**  
