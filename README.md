@@ -352,6 +352,11 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://hazards.colorado.edu/weather-ready-research/do-virtual-reality-hazard-simulations-increase-peoples-willingness-to-contribute-to-hazard-mitigation)  
    *Keywords:* Virtual Reality, Hazard Communication, Risk Perception, Mitigation, Human-Subject Experiment
 
+2. **[2026 arXiv] Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**  
+   Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, *et al.*  
+   [[paper]](https://arxiv.org/abs/2608.14391)  
+   *Keywords:* AI-Generated Video Detection, RA-Bench, Crisis Misinformation, Synthetic Media Benchmark, Detector Generalization, Multimodal LLMs, Human Authenticity Judgment, Social Dissemination
+
 ## Multimodal Disaster Damage Assessment
 
 1. **[2025 arXiv] BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response**  
@@ -420,13 +425,6 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    Chih-Shen Cheng, Amir Behzadan, Arash Noshadravan  
    [[paper]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
    *Keywords:* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
-
-## AI-Generated Media, Crisis Misinformation & Content Authenticity
-
-1. **[2026 arXiv] Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**  
-   Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, *et al.*  
-   [[paper]](https://arxiv.org/abs/2608.14391)  
-   *Keywords:* AI-Generated Video Detection, RA-Bench, Crisis Misinformation, Synthetic Media Benchmark, Detector Generalization, Multimodal LLMs, Human Authenticity Judgment, Social Dissemination
 
 ## Paper Feeds & Reading Sources
 
