@@ -421,6 +421,13 @@
    [[论文]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
    *关键词：* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
 
+## AI 生成媒体、危机误信息与内容真实性
+
+1. **[2026 arXiv] Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**  
+   Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, *et al.*  
+   [[论文]](https://arxiv.org/abs/2608.14391)  
+   *关键词：* AI-Generated Video Detection, RA-Bench, Crisis Misinformation, Synthetic Media Benchmark, Detector Generalization, Multimodal LLMs, Human Authenticity Judgment, Social Dissemination
+
 ## 论文资讯与阅读来源
 
 1. **CCTest AI 文章栏目（中文）** — 高产量的中文 AI 论文解读博客，收录 550+ 篇文章，覆盖新模型发布、多模态学习、AI 智能体、推理与部署、可解释性、记忆系统等主题。适合作为每日浏览的论文资讯源，从中发现值得精读的新论文。  

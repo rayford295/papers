@@ -421,6 +421,13 @@ The goal is not to leave GeoAI for generic computer vision detached from geograp
    [[paper]](https://doi.org/10.1016/j.ijdrr.2024.104785)  
    *Keywords:* Post-Hurricane Debris Estimation, Uncertainty-Aware AI, Crowdsourcing, FEMA Damage Rating, Aerial Imagery, Building Damage Classification, Hurricane Laura
 
+## AI-Generated Media, Crisis Misinformation & Content Authenticity
+
+1. **[2026 arXiv] Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**  
+   Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, *et al.*  
+   [[paper]](https://arxiv.org/abs/2608.14391)  
+   *Keywords:* AI-Generated Video Detection, RA-Bench, Crisis Misinformation, Synthetic Media Benchmark, Detector Generalization, Multimodal LLMs, Human Authenticity Judgment, Social Dissemination
+
 ## Paper Feeds & Reading Sources
 
 1. **CCTest AI Articles (Chinese)** — A high-volume Chinese-language blog with 550+ paper-reading digests across AI topics: new model releases, multimodal learning, AI agents, inference and deployment, interpretability, and memory systems. Useful as a daily feed for spotting new papers worth a deeper read.  
