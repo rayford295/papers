@@ -352,6 +352,11 @@
    [[论文]](https://hazards.colorado.edu/weather-ready-research/do-virtual-reality-hazard-simulations-increase-peoples-willingness-to-contribute-to-hazard-mitigation)  
    *关键词：* Virtual Reality, Hazard Communication, Risk Perception, Mitigation, Human-Subject Experiment
 
+2. **[2026 arXiv] Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination**  
+   Shuo Liang, Yixing Ma, Pengfei Zhou, Zhenglin Wan, Xingyan Chen, Zihan Mei, *et al.*  
+   [[论文]](https://arxiv.org/abs/2608.14391)  
+   *关键词：* AI-Generated Video Detection, RA-Bench, Crisis Misinformation, Synthetic Media Benchmark, Detector Generalization, Multimodal LLMs, Human Authenticity Judgment, Social Dissemination
+
 ## 多模态灾害损毁评估
 
 1. **[2025 arXiv] BRIGHT: A Globally Distributed Multimodal Building Damage Assessment Dataset with Very-High-Resolution for All-Weather Disaster Response**  
